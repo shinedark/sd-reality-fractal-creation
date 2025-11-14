@@ -1,0 +1,22 @@
+{
+  "name": "sd-reality-fractal-creation",
+  "version": "1.0.0",
+  "description": "Fractal time dynamics engine with 3D wave planes, exponential light growth, and temporal ray dispersion",
+  "main": "demo.js",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "three.js",
+    "fractal",
+    "webgl",
+    "3d",
+    "time-dynamics",
+    "visualization"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
+
